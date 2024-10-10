@@ -1,6 +1,6 @@
 <!-- cuerpo-->
 <section>
-            <div class="container-fluid mt-4 row justify-content-center">
+            <div class="container-fluid mt-4 row justify-content-center" style="min-width: 500px;">
                 
                 <div class="col-2 me-3">
                     <img class="w-100 mt-5" src="https://picsum.photos/200/204" alt="">

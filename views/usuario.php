@@ -86,5 +86,5 @@
         </section>
         <div class="w-100 border-top bg-light" style="height: 100px;">
             <div class="d-flex justify-content-center mt-3"> 
-                <a href="index.html"><button type="submit" class="btn btn-outline-danger">Cerrar sección</button></a>
+                <a href="<?php echo DB_URL ?>inicioUsuario"><button type="submit" class="btn btn-outline-danger">Cerrar sección</button></a>
             </div>
