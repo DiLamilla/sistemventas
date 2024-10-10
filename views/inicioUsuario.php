@@ -14,10 +14,10 @@
                             <a class=" nav-link active fw-bolder" href="inicioUsuario">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="hoy">Hoy</a>
+                            <a class="nav-link" href="<?php echo DB_URL ?>hoy">Hoy</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="explorar">Explorar</a>
+                            <a class="nav-link" href="<?php echo DB_URL ?>explorar">Explorar</a>
                         </li>
                     </ul>
                 </div>
@@ -49,7 +49,7 @@
                         </li>
                         
                         <li class="nav-item mt-2">
-                            <a class="contenedor-icono p-2" href="perfil.html"><i class="btn bi bi-person-circle"></i></a>
+                            <a class="contenedor-icono p-2" href="<?php echo DB_URL ?>usuario"><i class="btn bi bi-person-circle"></i></a>
                         </li>
 
                         <li class="nav-item mt-2">
@@ -57,7 +57,7 @@
                         </li>
 
                         <li class="nav-item mt-2">
-                            <a class="contenedor-icono p-2" href="carrito.html"><i class="btn bi bi-cart-fill"></i></a>
+                            <a class="contenedor-icono p-2" href="<?php echo DB_URL ?>carrito"><i class="btn bi bi-cart-fill"></i></a>
                         </li>
                     </ul>
                 </div>
