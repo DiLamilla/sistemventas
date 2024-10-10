@@ -46,7 +46,7 @@
                     </div>
                     </form>
                     <div class="d-grid gap-2 col-6 mx-auto">
-                    <a href="<?php echo DB_URL ?>inicio_usuario"><button type="submit" class="btn btn-outline-danger">Iniciar sección</button></a>
+                    <a href="<?php echo DB_URL ?>inicioUsuario"><button type="submit" class="btn btn-outline-danger">Iniciar sección</button></a>
                     </div>
                     <div class="text-center" style="font-size:x-small; margin-top:5px;">
                         <a class="dropdown-item fw-bold" style="text-decoration: none;" href="#">olvido la contraseña</a>
