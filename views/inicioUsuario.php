@@ -53,7 +53,7 @@
                         </li>
 
                         <li class="nav-item mt-2">
-                            <a class="contenedor-icono p-2" href="ajuste/ajuste01.html"><i class="btn bi bi-gear-fill"></i></a>
+                            <a class="contenedor-icono p-2" href="<?php echo DB_URL ?>ajustes"><i class="btn bi bi-gear-fill"></i></a>
                         </li>
 
                         <li class="nav-item mt-2">
