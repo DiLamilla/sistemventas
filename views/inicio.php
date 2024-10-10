@@ -143,7 +143,7 @@
         </div>
         
       </section>
-      <div class="container w-50" id="contenedor_formulario">
+      <div class="container w-50" id="">
         <div id="titulo-formulario" class="text-center mb-4">
           <h2>contactos</h2>
         </div>
